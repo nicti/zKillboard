@@ -44,7 +44,7 @@ In the Spring of 2016 zKillboard starting displaying all killmails that it recei
 
 ***
 
-#####I don&#39;t like the points that are given on a particular kill, can you fix it to appease me?
+#####<a id="points"></a>I don&#39;t like the points that are given on a particular kill, can you fix it to appease me?
 
 No. Points are very, very arbitrary. Calculating them in a fashion that keeps everyone happy is impossible.
 
